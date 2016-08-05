@@ -1,0 +1,9 @@
+{
+  "name": "project_son",
+  "version": "1.0.0",
+  "title": "Project SON",
+  "hompage": "http://www.schoolofnet.com",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

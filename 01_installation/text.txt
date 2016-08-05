@@ -1,0 +1,10 @@
+Site: http://gruntjs.com/
+
+Getting started:
+
+npm e node.js
+http://nodejs.org/
+
+Command:
+npm install -g grunt-cli
+

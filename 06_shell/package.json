@@ -1,0 +1,13 @@
+{
+  "name": "project_son",
+  "version": "1.0.0",
+  "title": "Project SON",
+  "hompage": "http://www.schoolofnet.com",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shell": "^1.2.1"
+  }
+}
